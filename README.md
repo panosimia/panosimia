@@ -11,7 +11,7 @@ Hi, my name is
 <h4> About me </h4>
 <p>
 In August 2023, I completed the <b>M.Sc. in Statistics </b> of the Athens University of Economics and Business.<br>
-My master's thesis was titled <it>"Windings of planar Brownian motion and Applications in Finance". </it>
+My master's thesis was titled <em>"Windings of planar Brownian motion and Applications in Finance". </em>
 Download it <a href="https://www.pyxida.aueb.gr/index.php?op=view_object&object_id=10675">here.</a><br>
 My supervisor was <a href="https://svakeroudis.wordpress.com/"> Stavros Vakeroudis</a>.<br>
 In this M.Sc. Thesis, it was dealt with 2-dimensional Brownian motion, and the way that it moves in the plane (called "windings"). 
