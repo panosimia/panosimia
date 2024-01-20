@@ -1,7 +1,7 @@
 Hi, my name is
 <h1>Panagiotis G. Symianakis</h1>
 <p><em>Mathematician-Statistician, M.Sc.</em></p>
-<p>Data Analysis, Statistical Inference, Analytics, Financial Mathematics & Modelling, Risk Assessment </p>
+<p>Data Analysis, Statistical Inference, Analytics, Financial Mathematics & Modelling, Risk Assessment, Biostatistics </p>
 <h4>Contact Information</h4>
 <ul>
   <li> E-mail: <strong> simianakisp@gmail.com </strong> </li>
