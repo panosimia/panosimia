@@ -1,5 +1,6 @@
 Hi, my name is
 <h1>Panagiotis G. Symianakis</h1>
+<h5>Ph.D.c in Bioinformatics, HUA</h5>
 <p><em>Mathematician-Statistician, M.Sc.</em></p>
 <p>Data Analysis, Statistical Inference, Analytics, Financial Mathematics & Modelling, Risk Assessment, Biostatistics </p>
 <h4>Contact Information</h4>
